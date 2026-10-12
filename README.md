@@ -11,6 +11,7 @@ I work on three things: intrusion detection for industrial control protocols, eB
 | HADA: A Hierarchical Anti-DDoS Architecture for Mitigating L7 Detection Gaps | JKIICE 30(7), 2026 · [DOI](https://doi.org/10.6109/jkiice.2026.30.7.1262) | Published |
 | MECA: An eBPF-Based Regulatory Audit Architecture for Medical Cloud Access-Log Visibility | Convergence Security Journal (KCI) | Accepted |
 | Design and Preliminary Validation of a Multi-Layer Cybersecurity Testbed for Nuclear I&C Systems | WISA 2026 | Poster |
+| An Endpoint-Specific Normalizer for Resolving DNP3 Interpretation Divergence in ICS Intrusion Detection Systems | KSC 2026 (KIISE Korea Software Congress), short paper | Submitted |
 
 The conference version of MECA received an award at the KCSA 2026 Summer Conference.
 
