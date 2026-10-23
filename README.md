@@ -17,7 +17,7 @@ The conference version of MECA received an award at the KCSA 2026 Summer Confere
 
 ## Other work
 
-- **CAMWATCH** — hidden-camera detection from 802.11 metadata, built with a team of five. I built the monitoring dashboard, part of the ingest API, and the deployment pipeline.
+- **Hidden-camera detection system** — detection from 802.11 metadata, built with a team of five. I built the monitoring dashboard, part of the ingest API, and the deployment pipeline.
 - **Nuclear cybersecurity regulation** — co-author of a regulatory analysis report on cybersecurity visibility for nuclear control systems (US, UK, and Korean regulators).
 
 ## Links
